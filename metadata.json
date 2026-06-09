@@ -1,0 +1,6 @@
+{
+  "name": "NomadCap",
+  "description": "The #1 Global Lifestyle Optimizer for Digital Nomads to calculate real-life living capacity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
